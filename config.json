@@ -1,0 +1,18 @@
+{
+  "host": "http://192.168.6.191:8000",
+  "logo": "http://192.168.0.16/assets/logo.png",
+  "app-title": "123123",
+  "@icon-url": "'http://192.168.0.16/assets/font/font_148784_r2qo40wrmaolayvi'",
+  "@primary-color":"rgba(32, 65, 138, 1)",
+  "@layout-header-height":"50px",
+  "@layout-body-background":"#f0f2f5",
+  "@login-header-padding": "80px",
+  "@padding-sm": "12px",
+  "@fixedTool-background": "#fff",
+  "@border-color-base": "rgb(217, 217, 217)",
+  "@border-color-split": "rgb(232, 232, 232)",
+  "@border-width-base": "1px",
+  "@border-style-base": "solid",
+  "@input-height-base": "32px",
+  "@border-radius-base": "4px"
+}
