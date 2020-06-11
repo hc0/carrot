@@ -85,7 +85,7 @@ var _getConfig2 = _interopRequireDefault(_getConfig);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-var photo = "http://192.168.0.16/assets/avatar.png";
+var photo = "";
 
 var layoutBodyStyles = (0, _extends3.default)({
   position: "relative",
